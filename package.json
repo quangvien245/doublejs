@@ -1,0 +1,15 @@
+{
+  "name": "doublejs.dev",
+  "version": "0.0.1",
+  "description": "Double JS",
+  "main": "./dist/doublejs.dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pasxd",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6"
+  }
+}

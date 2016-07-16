@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "outFile": "doublejs.dev.js",
+        "allowJs": true,
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "files": [
+        "src/doublejs.js"
+        ,"src/doublejs.init.ts"
+        ,"src/doublejs.base.ts"
+
+        ,"src/doublejs.helper.ts"
+    ]
+}

@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.idea/
+*.iml
+/src/main.js
+/src/index.php
